@@ -1,1 +1,20 @@
-<img width="735" height="413" alt="image" src="https://github.com/user-attachments/assets/e35856ef-a038-4ad8-a91b-b03296e7e9d5" />
+<img
+  src="https://github.com/user-attachments/assets/ab179400-a627-4c9d-8e2a-d5c3562a0b12" 
+  width="500"
+   align="left"
+/>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div align="center">
+
+<p align="center"> <a[rentry]() - [atabook] 
+<p align="center"> <a href="https://rentry.co/-stony">rentry</a>⠀⠀⠀⠀<a href="https://tonystark.atabook.org">新book</>
