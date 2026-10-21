@@ -16,5 +16,5 @@
 
 <div align="center">
 
-<p align="center"> <a[rentry]() - [atabook] 
-<p align="center"> <a href="https://rentry.co/-stony">rentry</a>⠀⠀⠀⠀<a href="https://tonystark.atabook.org">新book</>
+<p align="center"> <a[fluffle]() - [atabook] 
+<p align="center"> <a href="https://fluffle.cc/arcreactor">fluffle</a>⠀⠀⠀⠀<a href="https://tonystark.atabook.org">新book</>
